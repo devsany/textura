@@ -26,6 +26,13 @@ const CardComponent = () => {
           Turn Your Documents into Editable
           <br /> <span className="text-teal-500">Text in Seconds!</span>
         </div>
+        <div className=" font-semibold text-xl  text-slate-800 ">
+          'Upload images or PDFs and let Textura extract all the text you need.{" "}
+          <span className="underline text-teal-600">
+            Easy, fast, and accurate!
+          </span>
+          '
+        </div>
       </div>
     </div>
   );

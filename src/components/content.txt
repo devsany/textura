@@ -47,3 +47,56 @@ Privacy Policy and Terms of Service: Provide links to your privacy policy and te
 7. Optional Additions
 Demo Video: A quick demo video showing how the app works can be very engaging and informative.
 Pricing Plans: If your app has premium features or plans, display them here. Otherwise, indicate it's free for basic usage or has a free trial.
+
+
+
+
+//the posible list i have ot work
+1. PDF Conversions
+PDF to Word
+PDF to Excel
+PDF to PowerPoint
+PDF to Image (JPG/PNG)
+PDF to Text
+PDF to HTML
+PDF to CSV
+PDF to EPUB
+2. Word Conversions
+Word to PDF
+Word to Excel
+Word to PowerPoint
+Word to Image (JPG/PNG)
+Word to Text
+Word to HTML
+Word to ODT (OpenDocument Text)
+3. Excel Conversions
+Excel to PDF
+Excel to Word
+Excel to CSV
+Excel to Image (JPG/PNG)
+Excel to HTML
+Excel to JSON
+Excel to ODS (OpenDocument Spreadsheet)
+4. PowerPoint Conversions
+PowerPoint to PDF
+PowerPoint to Word
+PowerPoint to Excel
+PowerPoint to Image (JPG/PNG)
+PowerPoint to Video (MP4)
+PowerPoint to HTML
+5. Image Conversions
+Image (JPG/PNG) to PDF
+Image to Word
+Image to Excel
+Image to Text (OCR)
+6. CSV Conversions
+CSV to PDF
+CSV to Excel
+CSV to Word
+CSV to JSON
+CSV to HTML
+7. Text Conversions
+Text to PDF
+Text to Word
+Text to HTML
+Text to CSV

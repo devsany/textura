@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "./Header";
+import Header from "./navigationbar/Header";
 import HeroSection from "./HeroSection";
 
 const MainHome = () => {
